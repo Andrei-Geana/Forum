@@ -6,3 +6,5 @@ The program implementens a menu with the following proprieties:
 4. Only admins may delete articles.
 5. The user may see all approved articles from the forum, or all his own articles, the status of said articles being either pending or approved.
 6. Users can add articles.
+
+The program was implemented through the use of the Jackson Parser Library.
