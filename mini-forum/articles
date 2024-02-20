@@ -1,0 +1,1 @@
+[{"idUser":1,"idArticle":1,"value":"Acesta este o stire","status":"PENDING"},{"idUser":1,"idArticle":2,"value":"Acesta este o stire2","status":"PENDING"},{"idUser":2,"idArticle":3,"value":"Acesta este o stire3","status":"APPROVED"},{"idUser":1,"idArticle":4,"value":"Aceasta este cea mai noua stire.","status":"PENDING"}]
