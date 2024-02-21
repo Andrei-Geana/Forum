@@ -1,5 +1,5 @@
-# Mini-Forum
-The program implementens a menu with the following proprieties:
+# Forum
+The program implementens a forum with the following proprieties:
 1. There are two types of users: users and admins.
 2. There are two types of articles: pending articles and approved articles.
 3. Only admins may change the status of an article.
